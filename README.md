@@ -1,4 +1,4 @@
 # astro-dk
 * An astrophysics student
-* Last year undergraduate
-* **Interested in:** Neutron stars, General Relativity, Gravity, Elementary Particles.
+* Last year graduate
+* **Interested in:** Neutron stars, General Relativity, Gravity, Cosmology, Elementary Particles, Quantum Field Theory.
